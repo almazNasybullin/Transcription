@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Transcription</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_transcription">Транскрипции</string>
+    <string name="menu_history">История</string>
+    <string name="menu_favourite">Избранные</string>
+    <string name="menu_about">Информация</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="check_connection_text">Интернет соединение отсутствует</string>
+    <string name="about_text">У лукоморья дуб зелёный...</string>
+
+    <string name="website_domain">www.fandroid.info</string>
+    <string name="website_url">https://fandroid.info</string>
+    <string name="transcription_domain">https://wooordhunt.ru/word/</string>
+    <string name="website_urlFeedBack">https://docs.google.com/forms/d/e/1FAIpQLSf_aUn5880qEKxDmn5RTqAsEj1NEVL0KxusiSAXs2OajCWCCw/viewform?usp=sf_link</string>
+    <string name="text_label_transcription">Транскрипции слов</string>
+    <string name="text_transcription">Транскрипция</string>
+    <string name="btn_start">Ok</string>
+    <string name="text_word">Word</string>
+</resources>
